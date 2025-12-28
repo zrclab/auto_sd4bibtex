@@ -2,6 +2,8 @@
 
 一个强大的 Tampermonkey 用户脚本，用于在 ScienceDirect 网站上自动获取文献的 BibTeX 引用格式。该脚本会在 Google Scholar 按钮旁边添加一个"Copy BibTeX"按钮，点击即可直接复制 BibTeX 内容到剪贴板。
 
+共提供了两种方式,一种划线搜索,一种在 Google Scholar 按钮旁边添加"Copy BibTeX"按钮
+
 ## 🚀 功能特性
 
 - **一键获取**：在 Google Scholar 按钮旁边添加"Copy BibTeX"按钮

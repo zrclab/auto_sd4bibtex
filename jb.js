@@ -8,7 +8,7 @@
 // @grant        GM_setClipboard
 // @connect      scholar.google.com
 // @connect      scholar.googleusercontent.com
-// @run-at        document-idle
+// @run-at       document-idle
 // ==/UserScript==
 
 (function() {

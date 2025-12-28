@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         ScienceDirect BibTeX Simple
+// @name         ScienceDirect BibTeX(chalk line)
 // @namespace    https://github.com/zrc2024
 // @version      1.0
 // @description  Select text → Right-click → Copy BibTeX (via Google Scholar)
