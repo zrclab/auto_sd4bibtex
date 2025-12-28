@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         ScienceDirect BibTeX Simple
-// @namespace    https://github.com/zhengricheng
+// @namespace    https://github.com/zrc2024
 // @version      1.0
 // @description  Select text → Right-click → Copy BibTeX (via Google Scholar)
 // @match        *://www.sciencedirect.com/science/article/*
