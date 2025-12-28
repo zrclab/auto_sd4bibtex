@@ -246,7 +246,7 @@ console.log(document.querySelectorAll('a[href*="scholar.google.com"]'));
 
 ## 📝 更新日志
 
-### v2.0 (2024-12-28)
+### v2.0 (2025-12-28)
 - 🎉 **重大更新**：从右键菜单改为页面按钮方式
 - ✨ 新增：在 Google Scholar 按钮旁边添加"Copy BibTeX"按钮
 - 🔧 改进：直接使用 Google Scholar URL 而非标题搜索
@@ -254,7 +254,7 @@ console.log(document.querySelectorAll('a[href*="scholar.google.com"]'));
 - 🚀 提升：支持动态内容加载
 - 🛠️ 修复：各种边界情况和错误处理
 
-### v1.0 (2024-12-27)
+### v1.0 (2025-12-27)
 - 🎉 初始版本发布
 - ✨ 基本的右键菜单功能
 - 🔧 BibTeX 获取和复制功能
